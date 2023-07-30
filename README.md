@@ -1,4 +1,4 @@
-- [**Image Defogging using DDPM**](reports/CoAt_DQN_Final_Report.pdf) : Proposed and implemented a generative model for **Image Defogging using Conditional Denoising Diffusion Probabilistic Model (DDPM)** architecture, leveraging U-Net and a linear noise scheduler to learn the transformation for Foggy CityScapes dataset.  &emsp;  [**report**](reports/CoAt_DQN_Final_Report.pdf) [**code**](https://github.com/nitinthedreamer/DiffusionDefogging) &emsp; (**May 2023**)
+- [**Image Defogging using DDPM**](reports/Diffusion_Defogging__5822_Project_Report.pdf) : Proposed and implemented a generative model for **Image Defogging using Conditional Denoising Diffusion Probabilistic Model (DDPM)** architecture, leveraging U-Net and a linear noise scheduler to learn the transformation for Foggy CityScapes dataset.  &emsp;  [**report**](reports/Diffusion_Defogging__5822_Project_Report.pdf) [**code**](https://github.com/nitinthedreamer/DiffusionDefogging) &emsp; (**May 2023**)
 
 - [**CoAt-DQN**](reports/CoAt_DQN_Final_Report.pdf) : Proposed and implemented **Convolution and Attention Deep
 Q-Network** architecture combining CNN with Transformers with Deep
